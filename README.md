@@ -29,23 +29,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Clone this repository:
-
-    ```bash
-    git clone https://github.com/yourusername/decarbonization-transportation.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd decarbonization-transportation
-    ```
-
-3. Run the main script:
-
-    ```bash
-    python main.py
-    ```
+Jupyter-Notebook.
 
 ## Data
 
