@@ -47,9 +47,6 @@ Contributions to this project are welcome. Feel free to open issues or submit pu
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or inquiries, please contact [your name] at [your email address].
 
 ---
 
